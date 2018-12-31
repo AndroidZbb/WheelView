@@ -8,269 +8,41 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e9ddca6-e660-43d1-a2d6-9f256bba8db6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ant.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/wangjie/wheelview/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/wangjie/wheelview/Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/wangjie/wheelview/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/image01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/image02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/image03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/WheelView.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidbucket/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/androidinject/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView$OnWheelViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/WheelView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/sample/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/sample/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WheelView/com/wangjie/wheelview/sample/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/adapter/ABaseAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/adapter/ABaseAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/adapter/FragmentTabAdapter$OnRgsExtraCheckedChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/adapter/FragmentTabAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/adapter/listener/AdapterListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/adapter/listener/OnAdapterClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/application/ABApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/HorizontialListView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/HorizontialListView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/HorizontialListView$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/HorizontialListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/NestedGridView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/NestedListView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/ScaleImageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/ScaleImageView$ScaleListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/ScaleImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/TextCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/VerticalScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/WrapContentHeightViewPager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/borderscrollview/BorderScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/borderscrollview/OnScrollChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/borderscrollview/OnScrollChangedListenerSimple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/dropdownmenu/DropMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/dropdownmenu/DropMenuAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/dropdownmenu/DropMenuAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/dropdownmenu/IDropMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/horizontialmenu/HorizontialMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/horizontialmenu/HorizontialMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/horizontialmenu/OnHoriMenuItemListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/sublayout/ISubLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/sublayout/SubLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/sublayout/SubLayoutManager$LayoutSwitchListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/sublayout/SubLayoutManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/verticalmenu/SheetAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/verticalmenu/SheetAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/verticalmenu/SheetDialog$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/verticalmenu/SheetDialog$OnVertMenuItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/customviews/verticalmenu/SheetDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/exception/ABCrashHandler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/exception/ABCrashHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/log/LogConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/log/Logger$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/log/Logger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/objs/DelayObj.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/present/ABActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/present/ABSupportFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/present/ABSupportFragmentActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/security/MD5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/security/des3/Base64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/security/des3/Des3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/system/ABPhone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/system/SimulateEvents.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/system/WakeLocker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/thread/Runtask$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/thread/Runtask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/thread/ThreadPool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABAppUtil$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABAppUtil$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABAppUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABFileUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABIOUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABJsonUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABPrefsUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABTextUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABTimeUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/ABViewUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/imageprocess/ABImageProcess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/utils/imageprocess/blur/FastBlur.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidBucket/com/wangjie/androidbucket/watcher/OnTextCleanWatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidbucket/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AIBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AIClick.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AIFullScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AIItemClick.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AIItemLongClick.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AILayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AILongClick.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AINoTitle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AISystemService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/base/AIView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/dimens/AIScreenSize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/net/AIGet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/net/AIMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/net/AINetWorker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/net/AIParam.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/net/AIPost.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/net/AIUpload.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/orm/AIColumn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/orm/AIPrimaryKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/annotations/orm/AITable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/base/AnnotationManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/base/ParticularAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/base/RealizeAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/base/RealizeFieldAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/base/RealizeMethodAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/base/RealizeTypeAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/net/AINetWork.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/net/AIUploadNetWork.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/net/NetInvoHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/net/RetMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/net/SSLSocketFactoryEx$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/net/SSLSocketFactoryEx.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AIDatabaseHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AIDbExecutor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AIDbExecutor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AIDbExecutor$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AIDbExecutor$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AIDbExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/core/orm/AISqlCase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/listener/OnClickViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/listener/OnItemClickViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/listener/OnItemLongClickViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/listener/OnLongClickViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/present/AIActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/present/AIPresent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/present/AISubLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/present/AISupportFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/present/AISupportFragmentActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/present/common/CallbackSample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/util/AIDbUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/util/AITextUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/util/Params.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/util/ReflectionUtils$FieldCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/util/ReflectionUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/androidInject/com/wangjie/androidinject/annotation/util/SystemServiceUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/wheel_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/wangjie/wheelview/WheelView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/wangjie/wheelview/sample/MainActivity.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WheelView.iml" afterPath="$PROJECT_DIR$/WheelView.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+    <list default="true" id="8e9ddca6-e660-43d1-a2d6-9f256bba8db6" name="Default" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
-    <ignored path="WheelView.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
         <projects_view>
           <tree_state>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="WheelView" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-            </PATH>
+            <expand />
+            <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="WheelView" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -374,6 +146,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AndroidZbb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AndroidZbb/WheelView.git&quot;,
+    &quot;accountId&quot;: &quot;73c2b522-a352-4cda-a53f-78c8e6038aed&quot;
+  }
+}</component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
       <map>
@@ -1411,7 +1195,7 @@
         <entry key="$PROJECT_DIR$/../ShadowViewHelper" value="5730161846000" />
         <entry key="$PROJECT_DIR$" value="4345544112000" />
         <entry key="$PROJECT_DIR$/../androidInject" value="4290447046000" />
-        <entry key="$PROJECT_DIR$/../../xrdoctor_android/doctor/xr_doctor" value="18571614925000" />
+        <entry key="$USER_HOME$/xrdoctor_android/doctor/xr_doctor" value="18571614925000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1716,21 +1500,18 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1919" />
     <option name="y" value="-613" />
     <option name="width" value="1919" />
     <option name="height" value="1177" />
   </component>
+  <component name="ProjectId" id="2pN4SYnZsLfY2clgxCak1GItnyd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <OptionsSetting value="false" id="Update" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1946,25 +1727,25 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="TA09002YVJ" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="4.4.2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Android Application.app">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;show.do.not.copy.http.proxy.settings.to.gradle&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -2032,42 +1813,6 @@
       <module />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2087,76 +1832,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WheelView" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
@@ -2216,18 +1891,64 @@
       <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
-    </list>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8e9ddca6-e660-43d1-a2d6-9f256bba8db6" name="Default" comment="" />
       <created>1448513887685</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1448513887685</updated>
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <option name="closed" value="true" />
+      <created>1732593389203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732593389203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试">
+      <option name="closed" value="true" />
+      <created>1732593803746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732593803746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2264,12 +1985,20 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
